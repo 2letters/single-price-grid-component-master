@@ -20,8 +20,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Site]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/flexbox-single-price-grid-component-t0MUqnUYC8)
+- Live Site URL: [Site](https://single-price-grid-component-master-delta-pied.vercel.app/)
 
 ## My process
 
