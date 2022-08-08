@@ -6,16 +6,6 @@ html {
     height: 100%;
 }
 
-:root {
-    --light-cyan: hsl(179, 47%, 52%);
-    --dark-cyan: hsl(179, 61%, 44%);
-    --neutral-cyan: hsl(178, 60%, 62%);
-    --bright-yellow: hsl(71, 73%, 54%);
-    --light-gray: hsl(204, 43%, 93%);
-    --white: hsl(0, 0%, 100%);
-    --grayish-blue: hsl(218, 22%, 67%);
-}
-
 body {
     height: 100%;
     display: flex;
@@ -212,4 +202,14 @@ li:not(:last-child) {
         padding: 25px 109px 26px 24px;
     }
 
+}
+
+:root {
+    --light-cyan: hsl(179, 47%, 52%);
+    --dark-cyan: hsl(179, 61%, 44%);
+    --neutral-cyan: hsl(178, 60%, 62%);
+    --bright-yellow: hsl(71, 73%, 54%);
+    --light-gray: hsl(204, 43%, 93%);
+    --white: hsl(0, 0%, 100%);
+    --grayish-blue: hsl(218, 22%, 67%);
 }
